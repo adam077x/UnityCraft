@@ -13,7 +13,7 @@ Change current block type: Numbers on keyboard\
 4 - Bedrock\
 5 - Grass\
 6 - Wood\
-7 - Leaves\
+7 - Leaves
 
 ## Preview
 ![](unitycraft.gif)
