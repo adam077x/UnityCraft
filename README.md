@@ -1,5 +1,6 @@
 # UnityCraft
 Simple Minecraft clone in Unity game engine
+[github.com/adam077x/UnityCraft/releases/download/1.0/UnityCraft.zip](Download UnityCraft)
 
 ## Controls
 Movement: WASD\
