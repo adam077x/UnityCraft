@@ -5,7 +5,7 @@ Simple Minecraft clone in Unity game engine\
 ## Controls
 Movement: WASD\
 Placing/Destroying blocks: Left Click, Right Click\
-Change current block type: Numbers on keyboard\
+Change current block type: Numbers on keyboard
 
 1 - Dirt\
 2 - Cobblestone\
